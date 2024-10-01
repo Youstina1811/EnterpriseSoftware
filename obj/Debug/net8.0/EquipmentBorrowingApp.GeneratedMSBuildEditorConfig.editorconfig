@@ -26,20 +26,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/youstinabotros/EquipmentBorrowingApp/Views/Request/AllEquipment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdC9BbGxFcXVpcG1lbnQuY3NodG1s
+[/Users/youstinabotros/EquipmentBorrowingApp/Views/Requests/AllEquipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdHMvQWxsRXF1aXBtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/youstinabotros/EquipmentBorrowingApp/Views/Request/AvailableEquipment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdC9BdmFpbGFibGVFcXVpcG1lbnQuY3NodG1s
+[/Users/youstinabotros/EquipmentBorrowingApp/Views/Requests/AvailableEquipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdHMvQXZhaWxhYmxlRXF1aXBtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/youstinabotros/EquipmentBorrowingApp/Views/Request/Confirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdC9Db25maXJtYXRpb24uY3NodG1s
+[/Users/youstinabotros/EquipmentBorrowingApp/Views/Requests/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdHMvQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/youstinabotros/EquipmentBorrowingApp/Views/Request/RequestForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdC9SZXF1ZXN0Rm9ybS5jc2h0bWw=
+[/Users/youstinabotros/EquipmentBorrowingApp/Views/Requests/RequestForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVxdWVzdHMvUmVxdWVzdEZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/youstinabotros/EquipmentBorrowingApp/Views/Shared/Error.cshtml]
